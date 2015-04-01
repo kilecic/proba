@@ -41,7 +41,7 @@ namespace LotoAplikacija
             }
             else {
                 btnOdigraj.Enabled = false;
-                MessageBox.Show("Kombinacija uplacenih nije dobra");
+                MessageBox.Show("Kombinacija uplacenih nije valja. NE VALJA, NE VALJA, NE VALJA !!!");
             }
         }
 
